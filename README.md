@@ -1,3 +1,5 @@
+# 当前任务：Git和GitHub使用教程
+
 # Learning_前端学习之路
 
 # Part 1 Java
@@ -35,12 +37,9 @@ Class.17 React.js实战
 Class.18 Angular.js基础知识
 Class.19 Angular.js实战
 
-# Part 9 Git
-Class.20 Git和GitHub使用教程
+# Part 9 ECMAScript6(ES6)
+Class.20 ES6标准入门
 
-# Part 10 ECMAScript6(ES6)
-Class.21 ES6标准入门
-
-# Part 11 正则表达式
-Class.22 正则表达式学习
-Class.23 正则表达式使用
+# Part 10 正则表达式
+Class.21 正则表达式学习
+Class.22 正则表达式使用
